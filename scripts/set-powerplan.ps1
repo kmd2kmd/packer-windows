@@ -1,10 +1,10 @@
 Try {
   Write-Output "Set power plan to high performance"
 
-  $HighPerf = powercfg -l | %{if($_.contains("High performance")) {$_.split()[3]}}
+  $HighPerf = powercfg -l | %{if($_.contains("高パフォーマンス")) {$_.split()[3]}}
 
   # $HighPerf cannot be $null, we try activate this power profile with powercfg
-  # 
+  #
   if ($HighPerf -eq $null)
   {
     throw "Error: HighPerf is null"

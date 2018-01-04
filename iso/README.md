@@ -4,6 +4,10 @@ You should download your Windows Server ISO images from TechNet/MSDN and place t
 
 For example, you might want to start with one of the following:
 
+* Windows 10 Enterprise JPN
+	* File Name: 16299.15.170928-1534.rs3_release_CLIENTENTERPRISEEVAL_OEMRET_x64FRE_ja-jp.iso
+	* SHA256 Hash: e2c5978493812601d5949624755b58993c0c92137ce6a10caa32449f3f813a1b
+	* Direct Download: http://care.dlservice.microsoft.com/dl/download/D/5/0/D50830B5-C426-4B37-99B7-A2A798A459CF/16299.15.170928-1534.rs3_release_CLIENTENTERPRISEEVAL_OEMRET_x64FRE_ja-jp.iso
 * Windows Server 2008 R2 + SP1: 
 	* File Name: en_windows_server_2008_r2_with_sp1_x64_dvd_617601.iso
 	* SHA1 Hash: D3FD7BF85EE1D5BDD72DE5B2C69A7B470733CD0A
